@@ -26,12 +26,11 @@ for this purpose.
 
 
 ### Output:
+![9 1](https://github.com/user-attachments/assets/85df7352-5a55-494b-a77b-6b2c975567d6)
 
-![Screenshot (237)](https://github.com/user-attachments/assets/ead2edfa-c932-49d6-a146-16f6c648f5af)
+![9 3](https://github.com/user-attachments/assets/7d9a0796-8aaf-4708-b389-839b00c7d2cc)
 
-![Screenshot (238)](https://github.com/user-attachments/assets/bc0e65ac-b955-4ed6-b38c-495e158f3964)
-
-![Screenshot (236)](https://github.com/user-attachments/assets/0e8b3280-f3b2-4df8-8aaa-2d11a060440f)
+![9 2](https://github.com/user-attachments/assets/470819e1-b86b-4860-9f65-6f3d25b81742)
 
 
 ### Result:
